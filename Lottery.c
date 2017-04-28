@@ -8,8 +8,12 @@ void main()
   
   int YourLotteryNo;  
   
+<<<<<<< HEAD
   
 printf("Test\n");
+=======
+printf("Test2");
+>>>>>>> 56a7beeb98ed263eee1e9f0fc85394a37065be79
 printf("Enter your Lottery Number (0 to end): "); 
   scanf("%d", &YourLotteryNo); 
   while (YourLotteryNo != 0) 
